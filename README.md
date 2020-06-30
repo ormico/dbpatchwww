@@ -1,3 +1,3 @@
 # dbpatchwww
-dbpatchmanager web page
-https://github.com/ormico/dbpatchmanager
+dbpatchmanager
+[GitHub Repo](https://github.com/ormico/dbpatchmanager)
